@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import com.example.MSA_Project.User;
 @RestController // 주로 json형태의 데이터를 반한하기 위함
                 //@Controller와 @ResponseBody의 조합
 
