@@ -1,5 +1,6 @@
-package com.example.MSA_Project;
+package com.example.MSA_Project.controller;
 
+import com.example.MSA_Project.entity.User;
 import org.springframework.web.bind.annotation.*;
 
 

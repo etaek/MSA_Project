@@ -1,4 +1,4 @@
-package com.example.MSA_Project;
+package com.example.MSA_Project.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

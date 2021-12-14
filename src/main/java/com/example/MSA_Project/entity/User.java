@@ -1,4 +1,4 @@
-package com.example.MSA_Project;
+package com.example.MSA_Project.entity;
 
 
 import lombok.*;
